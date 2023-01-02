@@ -1,4 +1,4 @@
-name: Helio Organization CD
+name: Nodejs CD
 on:
   push:
     branches:

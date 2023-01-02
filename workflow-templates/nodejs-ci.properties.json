@@ -1,7 +1,7 @@
 {
-    "name": "Helio Organization CI Workflow",
-    "description": "Helio Organization CI starter workflow",
-    "iconName": "example-icon",
+    "name": "Nodejs CI Workflow",
+    "description": "Nodejs CI starter workflow",
+    "iconName": "nodejs-icon",
     "category": [
         "TypeScript"
     ],

@@ -1,7 +1,7 @@
 {
-    "name": "Helio Organization CD Workflow",
-    "description": "Helio Organization CD starter workflow",
-    "iconName": "example-icon",
+    "name": "Nodejs CD Workflow",
+    "description": "Nodejs CD starter workflow",
+    "iconName": "nodejs-icon",
     "category": [
         "TypeScript"
     ],
