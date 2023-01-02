@@ -1,0 +1,13 @@
+{
+    "name": "Helio Organization CI Workflow",
+    "description": "Helio Organization CI starter workflow",
+    "iconName": "example-icon",
+    "category": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
